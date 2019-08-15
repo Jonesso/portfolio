@@ -8,14 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevin-powell/portfolio-with-css-grid.git"
+    "url": "git+https://github.com/Jonesso/portfolio/portfolio-with-css-grid.git"
   },
-  "author": "Kevin Powell",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kevin-powell/portfolio-with-css-grid/issues"
-  },
-  "homepage": "https://github.com/kevin-powell/portfolio-with-css-grid#readme",
+  "homepage": "https://github.com/kevin-powell/portfolio/portfolio-with-css-grid.git",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
